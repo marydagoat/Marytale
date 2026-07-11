@@ -4,7 +4,7 @@ local title = {}
 -- Variables for the title image
 local titleImage
 local titleX = 0
-local titleY = 100 -- Vertical position of the image
+local titleY = 100
 
 -- Button configuration (Centered horizontally)
 local button = {
