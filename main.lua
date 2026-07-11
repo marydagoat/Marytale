@@ -4,7 +4,7 @@
 local intro = require("intro")
 local mary = require("mary")
 local conf = require("conf")
-local title = require("title") -- This is your title screen module
+local title = require("title") -- Matches your title.lua file exactly
 
 -- Track the current game state ("title" or "intro")
 local gameState = "title"
