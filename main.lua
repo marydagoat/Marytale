@@ -21,4 +21,5 @@ end
 function love.draw()
     -- Draw the intro scene
     intro.draw()
+    
 end
