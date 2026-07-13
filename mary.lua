@@ -4,7 +4,7 @@ local mary = {}
 -- All of Mary's properties live inside this table now
 mary.x = 100
 mary.y = 100
-mary.speed = 400
+mary.speed = 800
 mary.direction = "down"
 
 -- Target display height for Mary (adjust this to change her overall size in-game)
